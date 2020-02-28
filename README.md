@@ -1,0 +1,2 @@
+# BanManager
+BungeeCord Plugin
