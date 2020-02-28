@@ -1,0 +1,4 @@
+main: net.MarkusTieger.network.Ban.BanManager
+name: BanManager
+version: 1.0.0
+author: MarkusTieger
